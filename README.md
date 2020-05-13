@@ -1,5 +1,7 @@
 # emotion_detection
 
+download emotion detection csv data from kagal dataset (fer2013.csv)
+
 emotion_detection.py to train the cnn model with harrcascade data and then save all weights after training the model to json file
 .In testing_video.py taking video feed from front web camera with the traind cnn model.
 
